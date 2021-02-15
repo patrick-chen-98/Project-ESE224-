@@ -1,0 +1,6 @@
+Name  Password      Wins    Losses    WinPct WinStreak  LastPlay    premium
+Erica    pw12345    11    7    61.1111%    1    prideful    1
+Siri    13579pw    4    2    66.67%    -1    fireman    false
+Alexa    pw24680    3    6    33.3333%    4    jalapeno    false
+Cortana    67890pw    0    0    0%    0    emptyWord    false
+Google    pw22224    7    7    50%    1    imaginary    1
